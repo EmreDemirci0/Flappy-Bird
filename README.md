@@ -1,2 +1,2 @@
 # Flappy-Bird
-JSE için Flappy Bird geliştirdik.
+Clone Flappy Bird geliştirdik.
